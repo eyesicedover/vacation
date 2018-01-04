@@ -10,3 +10,8 @@ p {
 ul {
   font-size: 20px;
 }
+
+.jumbotron {
+  color: #C5B358;
+  text-align: center;
+}
